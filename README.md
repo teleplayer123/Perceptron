@@ -1,11 +1,5 @@
 # Machine Learning: The Perceptron
 
-## Starting in the brain!
-
-For the first example, I want to share my attempt at writing a Perceptron, an algorithm invented in
-1958 by Frank Rosenblatt. That's the extent of the history lesson portion. This is a good
-place to start learning about the inner workings of machine learning.
-
 ### [Perceptron](perceptron.py)
 
 The perceptron works like a human brain works. A neuron recieves an electrical signal from another neuron,
