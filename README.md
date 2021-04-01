@@ -1,4 +1,4 @@
-# Machine Learning Algorithms and Me Learning... you are invited to learn as well!
+# Machine Learning: The Perceptron
 
 ## Starting in the brain!
 
